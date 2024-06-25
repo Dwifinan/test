@@ -27,6 +27,7 @@ if(isset($_POST['proses'])){
 </head>
 <body>
     <form action="" method="post">
+        <h2>Form Input</h2>
         <table>
             <tr>
                 <td>judul</td>
